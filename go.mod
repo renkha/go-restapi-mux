@@ -1,4 +1,4 @@
-module github.com/renkha/go-restapi-gin
+module github.com/renkha/go-restapi-mux
 
 go 1.16
 
