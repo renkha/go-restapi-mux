@@ -12,7 +12,7 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
-	"github.com/renkha/go-restapi-gin/src/model"
+	"github.com/renkha/go-restapi-mux/src/model"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/jinzhu/gorm"
-	"github.com/renkha/go-restapi-gin/src/model"
+	"github.com/renkha/go-restapi-mux/src/model"
 )
 
 func CreateUserHandler(db *gorm.DB) http.HandlerFunc {
