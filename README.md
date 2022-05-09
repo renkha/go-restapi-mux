@@ -3,3 +3,4 @@
 Try and learning how to make Rest API with Go Language - Gin Framework and PostgreSQL
 
 test push
+test push2
